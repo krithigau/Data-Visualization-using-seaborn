@@ -247,18 +247,3 @@ hm=sns.heatmap(data=data)
 
 # Result:
  Thus, all the data visualization techniques of seaborn has been implemented successfully.
-STEP 1:Include the necessary Library.
-
-STEP 2:Read the given Data.
-
-STEP 3:Apply data visualization techniques to identify the patterns of the data.
-
-STEP 4:Apply the various data visualization tools wherever necessary.
-
-STEP 5:Include Necessary parameters in each functions.
-
-# Coding and Output:
- Include the necessary coding and corresponding screenshots
-
-# Result:
- Include your result here
